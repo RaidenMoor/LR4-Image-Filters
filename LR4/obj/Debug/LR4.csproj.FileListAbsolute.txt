@@ -1,0 +1,10 @@
+D:\5th semester\computer graphics\LR4\LR4\bin\Debug\LR4.exe.config
+D:\5th semester\computer graphics\LR4\LR4\bin\Debug\LR4.exe
+D:\5th semester\computer graphics\LR4\LR4\bin\Debug\LR4.pdb
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.csproj.AssemblyReference.cache
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.Form1.resources
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.Properties.Resources.resources
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.csproj.GenerateResource.cache
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.csproj.CoreCompileInputs.cache
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.exe
+D:\5th semester\computer graphics\LR4\LR4\obj\Debug\LR4.pdb
